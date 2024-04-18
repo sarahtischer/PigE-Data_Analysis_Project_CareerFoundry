@@ -12,8 +12,6 @@ This project focuses on providing analytical support to Pig E Bank's anti-money 
 * Build decision trees and regression models for analysis
 * Analyze and identify appropriate predictive models
 * Describe time series characteristics and implement predictions
-* Create a GitHub account, host SQL and Python work, and curate projects
-* Develop a storyline around projects from the Data Immersion Program
 
 ## Data
 Pig E. Bank's Data Set - This dataset was created by CareerFoundry for use in this analysis. The dataset includes information about customer IDs, last names, credit scores, country, gender, age, tenure, balance, number of products, credit cards, activity, estimated salary, and exit status.
