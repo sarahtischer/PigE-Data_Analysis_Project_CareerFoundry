@@ -23,7 +23,7 @@ Pig E. Bank's Data Set - This dataset was created by CareerFoundry for use in th
 * The decision tree was created using Canva
 
 ## Visualizations
-The decision tree was created using Tableau Public and can be viewed in the [Canvas Whiteboard](https://www.canva.com/design/DAF94S3aAco/wMkeXWlgoxcJg3634QRpTw/edit?utm_content=DAF94S3aAco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+The decision tree was created using Canva and can be viewed in the [Canva Whiteboard](https://www.canva.com/design/DAF94S3aAco/wMkeXWlgoxcJg3634QRpTw/edit?utm_content=DAF94S3aAco&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Summary
 The Pig E Bank Data Analytics project aims to provide analytical support to the bank's compliance department by assessing risks, building models, and addressing ethical concerns. Through a series of exercises, the project covers topics such as big data, data mining, predictive analysis, and time series forecasting. By leveraging analytical tools and ethical considerations, the project seeks to optimize the bank's compliance program and contribute to ethical data practices.
